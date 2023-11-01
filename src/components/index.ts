@@ -4,6 +4,7 @@ import MainContainer from "./MainContainer";
 import ContactList from "./ContactList";
 import BalanceCard from "./BalanceCard";
 import MonthlyBill from "./MonthlyBill";
+import RecentHistory from "./RecentHistory";
 
 export {
   BottomTab,
@@ -12,4 +13,5 @@ export {
   ContactList,
   BalanceCard,
   MonthlyBill,
+  RecentHistory,
 };
